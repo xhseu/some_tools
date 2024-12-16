@@ -1,0 +1,2 @@
+这是一个用于爬取链家网站上小区信息的python爬虫程序，仅供学习研究
+具体思路见：https://www.xiaohongshu.com/explore/675ea6ee000000000700fcb7?xsec_token=AB_tws4LBokL9VbEFb_GclRLv8TyWQYg3hvGttq0qNMpY=&xsec_source=pc_user
